@@ -8,7 +8,6 @@ I chose to study for a degree in softwware because i´m really passionate for te
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [noeliaromina20@gmail.com](mailto:noeliaromina20@gmail.com)
-* 🚀  I'm currently working on [Mercado Libre Clon](http://https://mercadolibre-express.herokuapp.com/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on frontend projects
 * ⚡  I am a goal-oriented worker; I enjoy working by setting specific goals for myself and accomplishing them, it motivates me to work hard
