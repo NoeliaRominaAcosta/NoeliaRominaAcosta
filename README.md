@@ -12,6 +12,18 @@ I chose to study for a degree in softwware because i´m really passionate for te
 * 🤝  I'm open to collaborating on frontend and backend projects
 * ⚡  I am a goal-oriented worker; I enjoy working by setting specific goals for myself and accomplishing them, it motivates me to work hard
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NoeliaRominaAcosta&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NoeliaRominaAcosta&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaRominaAcosta&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NoeliaRominaAcosta&icon=0&color=6)](https://visitcount.itsvg.in)
+
 ### Skills
 
 <p align="left">
