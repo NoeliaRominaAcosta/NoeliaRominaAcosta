@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noelia
 ==============================================================================================================================
 
-Javascript Fullstack Developer
+Fullstack Developer
 ------------------------------
 
 I chose to study for a degree in softwware because i´m really passionate for technology, i love coding, it´s a challenge, my life style and my hobbie. I find facing new challenges really motivating.
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [noeliaromina20@gmail.com](mailto:noeliaromina20@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning C#
 * 🤝  I'm open to collaborating on frontend and backend projects
 * ⚡  I am a goal-oriented worker; I enjoy working by setting specific goals for myself and accomplishing them, it motivates me to work hard
 
@@ -17,9 +17,6 @@ I chose to study for a degree in softwware because i´m really passionate for te
 ![](https://github-readme-stats.vercel.app/api?username=NoeliaRominaAcosta&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NoeliaRominaAcosta&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoeliaRominaAcosta&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NoeliaRominaAcosta&icon=0&color=6)](https://visitcount.itsvg.in)
