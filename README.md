@@ -8,8 +8,8 @@ I chose to study for a degree in softwware because i´m really passionate for te
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [noeliaromina20@gmail.com](mailto:noeliaromina20@gmail.com)
-* 🧠  I'm learning C#
-* 🤝  I'm open to collaborating on frontend and backend projects
+* 🧠  I'm learning JAVA
+* 🤝  I'm open to collaborating on frontend & backend projects
 * ⚡  I am a goal-oriented worker; I enjoy working by setting specific goals for myself and accomplishing them, it motivates me to work hard
 
 
