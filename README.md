@@ -1,10 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Noelia, a fullstack developer 👨‍💻 working since January 2022 🚀</div>  
-  
+# 💫 About Me:
 
 - 🔭 I’m currently working on [Oasis Aventura](https://github.com/NoeliaRominaAcosta/OasisAventura)  
   
