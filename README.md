@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Oasis Aventura](https://github.com/NoeliaRominaAcosta/OasisAventura)  
+- 🔭 I’m currently working on [Clothing Store](https://github.com/NoeliaRominaAcosta/Boutique) on C#
   
 
 - 🌱 I’m currently learning .NET for C#  
   
 
-- 😊 My secondary project it´s a [Music Player](https://github.com/NoeliaRominaAcosta/musicPlayerCSharp) on C#  
+- 😊 My secondary project it´s a [Oasis Aventura](https://github.com/NoeliaRominaAcosta/OasisAventura) on JAVA just for fun
   
 
 - ⚡ Fun fact: I use tabs over spaces  
