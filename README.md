@@ -55,7 +55,6 @@
 
 <div width="100%" align="center" margin="10px"><a href="https://github.com/NoeliaRominaAcosta/oasisaventura" align="left"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=NoeliaRominaAcosta&repo=oasisAventura&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
-<div width="100%" align="center"margin="10px"><a href="https://github.com/NoeliaRominaAcosta/musicPlayerCSharp" align="left"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=NoeliaRominaAcosta&repo=musicPlayerCSharp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <div width="100%" align="center" margin="10px"><a href="https://github.com/NoeliaRominaAcosta/mateando" align="left"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=NoeliaRominaAcosta&repo=mateando&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
  
