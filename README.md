@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Clothing Store](https://github.com/NoeliaRominaAcosta/Boutique) on C#
+- 🔭 I’m currently working on [Store ASP.NET](https://github.com/NoeliaRominaAcosta/tiendaASPNET) on C#
   
 
 - 🌱 I’m currently learning .NET for C#  
